@@ -8,3 +8,4 @@ lxml==4.1.1
 marshmallow==2.15.0
 multidict==3.3.2
 yarl==0.16.0
+tldextract
